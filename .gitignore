@@ -1,7 +1,0 @@
-sync.ffs_db
-.idea/
-dist/
-build/
-__pycache__/
-.config
-.ipynb_*
